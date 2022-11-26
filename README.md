@@ -1,9 +1,18 @@
-__MAX GAMING YT__
+# Discord Leveling Bot
 
+Start: `node index.js`
 
-**YOUTUBE** 
-https://www.youtube.com/channel/UC1h8NFsqM4Gsd7VkFsQxSzA
+New package: `npm i` and `npm init -y`
+# `PROJECT MaxDev6966`
 
+☃︎ | Project Owner: MaxDev6966<br>⚠︎ | Do Not Change Any Of The Credits
 
-**DISCORD SERVER**
-https://discord.gg/u9x5gdZ6Vw
+**__THE BEST GIVEAWAY DISCORD BOT__**
+
+**__MADE BY MaxDev6966__**
+
+`SUB TO MaxDev6966`
+
+`JOIN OUR SERVER FOR MORE UPDATES AND HELP`
+
+📝https://dsc.gg/maxgaming-yt
